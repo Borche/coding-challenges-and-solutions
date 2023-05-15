@@ -1,5 +1,6 @@
-package org.example.codility.lesson2.cyclicrotation.oddoccurencesinarray;
+package org.example.codility.arrays.cyclicrotation.oddoccurencesinarray;
 
+import org.example.codility.arrays.oddoccurencesinarray.Solution;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

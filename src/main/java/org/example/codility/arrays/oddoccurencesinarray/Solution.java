@@ -1,4 +1,4 @@
-package org.example.codility.lesson2.cyclicrotation.oddoccurencesinarray;
+package org.example.codility.arrays.oddoccurencesinarray;
 
 import java.util.HashMap;
 import java.util.Map;

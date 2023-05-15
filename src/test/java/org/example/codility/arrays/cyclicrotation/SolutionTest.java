@@ -1,9 +1,7 @@
-package org.example.codility.lesson2.cyclicrotation;
+package org.example.codility.arrays.cyclicrotation;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class SolutionTest {
 

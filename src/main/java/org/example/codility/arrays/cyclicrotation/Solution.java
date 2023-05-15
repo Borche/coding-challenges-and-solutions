@@ -1,4 +1,4 @@
-package org.example.codility.lesson2.cyclicrotation;
+package org.example.codility.arrays.cyclicrotation;
 
 public class Solution {
   public int[] solution(int[] A, int K) {
