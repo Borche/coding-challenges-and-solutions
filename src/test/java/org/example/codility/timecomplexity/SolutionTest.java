@@ -1,5 +1,6 @@
-package org.example.codility.timecomplexity.frogjmp;
+package org.example.codility.timecomplexity;
 
+import org.example.codility.timecomplexity.frogjmp.Solution;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
