@@ -12,5 +12,8 @@ public class IntToDoublePlay {
     double a2 = 3.0 / 2;
     double a3 = 3 / 2.0;
     double a4 = 3.0 / 2.0;
+
+    System.out.println(1.0/10 + 2.0/10);
+    System.out.println(3/10);
   }
 }
